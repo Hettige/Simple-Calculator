@@ -1,0 +1,18 @@
+C:\Users\Mithun Hettige\Desktop\Cal\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Mithun Hettige\Desktop\Cal\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Mithun Hettige\Desktop\Cal\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Mithun Hettige\Desktop\Cal\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Mithun Hettige\Desktop\Cal\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Mithun Hettige\Desktop\Cal\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Mithun Hettige\Desktop\Cal\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Mithun Hettige\Desktop\Cal\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Mithun Hettige\Desktop\Cal\Calculator\Calculator\obj\Debug\Calculator.CalculatorForm.resources
+D:\Projects\C#\Cal\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Projects\C#\Cal\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Projects\C#\Cal\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Projects\C#\Cal\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Projects\C#\Cal\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Projects\C#\Cal\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Cal\Calculator\Calculator\obj\Debug\Calculator.CalculatorForm.resources
+D:\Projects\C#\Cal\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Projects\C#\Cal\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
